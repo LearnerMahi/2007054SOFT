@@ -1,5 +1,5 @@
 
-    class SmartTV implements TV {
+    public class SmartTV implements TV {
         boolean powerOn = false;
         int volume = 10;
         int channel = 5;

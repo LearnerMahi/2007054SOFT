@@ -1,4 +1,4 @@
-class GeneralTV implements TV {
+public class GeneralTV implements TV {
     boolean powerOn = false;
     int volume = 20;
     int channel = 1;
